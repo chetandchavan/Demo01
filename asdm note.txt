@@ -1,0 +1,40 @@
+story:
+
+
+
+sub-task:
+
+
+
+hours burn, time log change
+
+
+
+
+before sprint : original estimate
+after sprint start: time burn
+
+
+
+product backlog
+
+
+
+(4-5 stories)
+
+
+
+sprint backlog=========sprint plan======
+
+
+
+4 sprints [backlog===sprint backlog]
+
+
+
+
+
+epic
+story
+before sprint: story point
+do not give original time estimate,
